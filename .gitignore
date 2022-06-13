@@ -1,0 +1,7 @@
+
+bin
+build
+x64
+CMakeLists.txt.user
+ts/test_zh_CN.ts
+ts/test_en.ts
